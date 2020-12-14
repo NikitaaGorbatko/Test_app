@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465224709566",
+    "firebase_url": "https://blackit-ec0d6.firebaseio.com",
+    "project_id": "blackit-ec0d6",
+    "storage_bucket": "blackit-ec0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465224709566:android:5230a0093848561fec75ef",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465224709566-i4ebm0fv8k47efel0elmco6n0ldhop0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVHGa4GCz5Gr9_qGG3l5Lu9YP7umerr0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465224709566-i4ebm0fv8k47efel0elmco6n0ldhop0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
